@@ -18,7 +18,7 @@ Composer
 ###Handling errors
 By default the library registers custom error handler, 
 which throws \Error when PHP emits E_WARNING or E_ERROR. 
-The \Error is then being catched and Nilet\Components\FileSystem\FileSystemException is thrown
+The \Error is then being catched and `Nilet\Components\FileSystem\FileSystemException` is thrown
 
 ###Examples
 
