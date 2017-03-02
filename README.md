@@ -24,7 +24,7 @@ The \Error is then being catched and Nilet\Components\FileSystem\FileSystemExcep
 
 File system
 ```php
-use Nilet\Components\FileSystem\FileSystem\FileSystem;
+use Nilet\Components\FileSystem\FileSystem;
 use Nilet\Components\FileSystem\FileSystem\Directory;
 use Nilet\Components\FileSystem\FileSystem\File;
 use Nilet\Components\FileSystem\FileSystem\FileSystemException;
